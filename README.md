@@ -25,13 +25,14 @@ Candidate -> Ambassador -> Senior Ambassador -> Regional Head
 2. Our team will evaluate your progress and commitment to determine your status.
 
 # Task Board
+
 https://github.com/orgs/bit-country/projects/1
 
-# Apply Now & Be a Metaverse Pioneer
+# Apply Now
+
 https://bit.country/ambassador-program
 
-# List of Authorized Ambassadors
-Be the first one!
+# List of Recognized Ambassadors
 
 - Your name here
 - Your name here
