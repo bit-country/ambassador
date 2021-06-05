@@ -33,4 +33,9 @@ https://bit.country/ambassador-program
 # List of Authorized Ambassadors
 Be the first one!
 
+- Your name here
+- Your name here
+- Your name here
+- ...
+
 
