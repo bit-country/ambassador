@@ -24,11 +24,7 @@ Candidate -> Ambassador -> Senior Ambassador -> Regional Head
 1. Everyone who applied will be a candidate. You can apply here https://bit.country/ambassador-program
 2. Our team will evaluate your progress and commitment to determine your status.
 
-Your role will be refelected in our official Discord channel.
-
-# Task Board
-
-https://github.com/orgs/bit-country/projects/1
+Your role will be reflected in our official Discord channel.
 
 # Apply Now
 
