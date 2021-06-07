@@ -15,14 +15,16 @@ On Bit.Country, you can tokenize your community by starting your own bit country
 
 - We will bootstrap your bit country from our treasury.
 - Promote your bit country and NFTs.
-- We will secure a land for you in the official BC ambassador BC! You may get an NFT from us as well :-)
+- We will secure a land for you in the official ambassador bit country! You may get an NFT from us as well :-)
 
-# Status
+# Roles
 
 Candidate -> Ambassador -> Senior Ambassador -> Regional Head
 
 1. Everyone who applied will be a candidate. You can apply here https://bit.country/ambassador-program
 2. Our team will evaluate your progress and commitment to determine your status.
+
+Your role will be refelected in our official Discord channel.
 
 # Task Board
 
