@@ -15,7 +15,7 @@ On Bit.Country, you can tokenize your community by starting your own bit country
 
 - We will bootstrap your bit country from our treasury.
 - Promote your bit country and NFTs.
-- We will secure a spot for you in the official BC ambassador district! That is a special area on the network. You may get an NFT from us :-)
+- We will secure a land for you in the official BC ambassador BC! You may get an NFT from us as well :-)
 
 # Status
 
