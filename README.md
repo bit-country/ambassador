@@ -13,9 +13,9 @@ On Bit.Country, you can tokenize your community by starting your own bit country
 
 # Benefits
 
-- We will bootstrap your bit country from our treasury.
-- Promote your bit country and NFTs.
-- We will secure a land for you in the official ambassador bit country! You may get an NFT from us as well :-)
+- We will bootstrap your bit country from our treasury (For Senior Ambassador, Head Ambassadors).
+- Promote your bit country and NFTs (For Senior Ambassador, Head Ambassadors).
+- We will secure a land for you in the official ambassador bit country! You may get an NFT from us as well (For Ambassadors)
 
 # Roles
 
